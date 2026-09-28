@@ -11,3 +11,11 @@
 # `exec /usr/local/bin/docker-entrypoint.sh: no such file or directory` —
 # a message that points at the script rather than at the interpreter.
 *.sh text eol=lf
+
+# Windows 批处理必须保留 CRLF 行尾。
+#
+# 仓库默认 `* text=auto eol=lf` 会把 .bat 存成 LF；cmd.exe 解析 LF-only 批处理时
+# 可能找不到标签（报 "The system cannot find the batch label specified"），
+# 导致 goto/call 子过程失效。Windows 部署脚本一律强制 CRLF。
+*.bat text eol=crlf
+*.cmd text eol=crlf
