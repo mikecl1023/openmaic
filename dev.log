@@ -1,0 +1,274 @@
+
+> openmaic@1.0.3 dev C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic
+> next dev
+
+▲ Next.js 16.3.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.194.71.247:3000
+- Environments: .env.local
+✓ Ready in 1024ms
+✓ Running next.config.ts took 77ms
+⚠ Slow filesystem detected. The benchmark took 252ms. If \\?\C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\.next\dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead.
+
+  To migrate automatically, run:
+  npx @next/codemod@canary middleware-to-proxy .
+
+  Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[2026-09-17T11:33:25.830Z] [INFO] [ServerProviderConfig] [ServerProviderConfig] Loaded (server-providers.yml): 2 LLM, 0 TTS, 0 ASR, 0 PDF, 1 Image, 0 Video, 0 WebSearch providers
+- Experiments (use with caution):
+  · proxyClientMaxBodySize: "200mb"
+
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ HEAD / 200 in 1870ms (next.js: 699ms, proxy.ts: 102ms, application-code: 1068ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET / 200 in 119ms (next.js: 16ms, proxy.ts: 12ms, application-code: 90ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+[2026-09-17T11:33:39.065Z] [INFO] [ServerProviderConfig] [ServerProviderConfig] Loaded (server-providers.yml): 2 LLM, 0 TTS, 0 ASR, 0 PDF, 1 Image, 0 Video, 0 WebSearch providers
+ GET /api/server-providers 200 in 267ms (next.js: 204ms, proxy.ts: 9ms, application-code: 55ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET /api/comfyui-workflows 200 in 372ms (next.js: 350ms, proxy.ts: 10ms, application-code: 12ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET /api/access-code/status 200 in 479ms (next.js: 457ms, proxy.ts: 12ms, application-code: 10ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET /api/server-providers 200 in 249ms (next.js: 129ms, proxy.ts: 114ms, application-code: 6ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET /api/comfyui-workflows 200 in 41ms (next.js: 23ms, proxy.ts: 9ms, application-code: 9ms)
+⚠ ./instrumentation.ts:115:3
+Warning: A Node.js API is used (process.once at line: 115) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m113 |[0m   };
+  [90m114 |[0m
+[33m[1m>[0m [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+⚠ ./instrumentation.ts:116:3
+Warning: A Node.js API is used (process.once at line: 116) which is not supported in the Edge Runtime.
+    Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+  [90m114 |[0m
+  [90m115 |[0m   process.once([32m'SIGTERM'[0m, () => [36mvoid[0m shutdown());
+[33m[1m>[0m [90m116 |[0m   process.once([32m'SIGINT'[0m, () => [36mvoid[0m shutdown());
+  [90m    |[0m   [33m[1m^^^^^^^^^^^^[0m
+  [90m117 |[0m }
+  [90m118 |[0m
+
+Ecmascript file had an error
+
+
+ GET /api/access-code/status 200 in 48ms (next.js: 32ms, proxy.ts: 9ms, application-code: 7ms)

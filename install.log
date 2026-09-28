@@ -1,0 +1,429 @@
+packages/@openmaic/importer              |  WARN  The field "pnpm.onlyBuiltDependencies" was found in C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\importer/package.json. This will not take effect. You should configure "pnpm.onlyBuiltDependencies" at the root of the workspace instead.
+packages/@openmaic/renderer              |  WARN  The field "pnpm.onlyBuiltDependencies" was found in C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\renderer/package.json. This will not take effect. You should configure "pnpm.onlyBuiltDependencies" at the root of the workspace instead.
+Scope: all 9 workspace projects
+Lockfile is up to date, resolution step is skipped
+Packages: +3062
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 0, reused 57, downloaded 0, added 0
+Progress: resolved 0, reused 183, downloaded 0, added 0
+Progress: resolved 0, reused 325, downloaded 0, added 0
+Progress: resolved 0, reused 456, downloaded 0, added 0
+Progress: resolved 0, reused 726, downloaded 0, added 0
+Progress: resolved 0, reused 1081, downloaded 0, added 0
+Progress: resolved 0, reused 1639, downloaded 0, added 0
+Progress: resolved 0, reus ERR_PNPM_LINKING_FAILED  [safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {"count":94,"threshold":50,"scope":"turn","targets":["C:\\Users\\28712\\WorkBuddy\\2026-09-17-13-49-32\\openmaic\\node_modules\\.pnpm\\jsonrepair@3.13.3\\node_modules\\jsonrepair_tmp_7344\\lib"],"targetCount":1}
+ 2511, downloaded 0, added 22
+Progress: resolved 0, reused 2511, downloaded 0, added 24
+Progress: resolved 0, reused 2511, downloaded 0, added 26
+Progress: resolved 0, reused 2511, downloaded 0, added 28
+Progress: resolved 0, reused 2511, downloaded 0, added 40
+Progress: resolved 0, reused 2511, downloaded 0, added 41
+Progress: resolved 0, reused 2511, downloaded 0, added 43
+Progress: resolved 0, reused 2511, downloaded 0, added 48
+Progress: resolved 0, reused 2511, downloaded 0, added 55
+Progress: resolved 0, reused 2511, downloaded 0, added 56
+Progress: resolved 0, reused 2511, downloaded 0, added 64
+Progress: resolved 0, reused 2511, downloaded 0, added 67
+Progress: resolved 0, reused 2511, downloaded 0, added 68
+Progress: resolved 0, reused 2511, downloaded 0, added 69
+Progress: resolved 0, reused 2511, downloaded 0, added 71
+Progress: resolved 0, reused 2511, downloaded 0, added 89
+Progress: resolved 0, reused 2511, downloaded 0, added 100
+Progress: resolved 0, reused 2511, downloaded 0, added 111
+Progress: resolved 0, reused 2511, downloaded 0, added 113
+Progress: resolved 0, reused 2511, downloaded 0, added 116
+Progress: resolved 0, reused 2511, downloaded 0, added 117
+Progress: resolved 0, reused 2511, downloaded 0, added 119
+Progress: resolved 0, reused 2511, downloaded 0, added 120
+Progress: resolved 0, reused 2511, downloaded 0, added 123
+Progress: resolved 0, reused 2511, downloaded 0, added 124
+Progress: resolved 0, reused 2511, downloaded 0, added 125
+Progress: resolved 0, reused 2511, downloaded 0, added 131
+Progress: resolved 0, reused 2511, downloaded 0, added 139
+Progress: resolved 0, reused 2511, downloaded 0, added 141
+Progress: resolved 0, reused 2511, downloaded 0, added 142
+Progress: resolved 0, reused 2511, downloaded 0, added 143
+Progress: resolved 0, reused 2511, downloaded 0, added 145
+Progress: resolved 0, reused 2511, downloaded 0, added 148
+Progress: resolved 0, reused 2511, downloaded 0, added 152
+Progress: resolved 0, reused 2511, downloaded 0, added 155
+Progress: resolved 0, reused 2511, downloaded 0, added 173
+Progress: resolved 0, reused 2511, downloaded 0, added 175
+Progress: resolved 0, reused 2511, downloaded 0, added 176
+Progress: resolved 0, reused 2511, downloaded 0, added 181
+Progress: resolved 0, reused 2511, downloaded 0, added 183
+Progress: resolved 0, reused 2511, downloaded 0, added 186
+Progress: resolved 0, reused 2511, downloaded 0, added 190
+Progress: resolved 0, reused 2511, downloaded 0, added 199
+Progress: resolved 0, reused 2511, downloaded 0, added 211
+Progress: resolved 0, reused 2511, downloaded 0, added 222
+Progress: resolved 0, reused 2511, downloaded 0, added 225
+Progress: resolved 0, reused 2511, downloaded 0, added 229
+Progress: resolved 0, reused 2511, downloaded 0, added 231
+Progress: resolved 0, reused 2511, downloaded 0, added 235
+Progress: resolved 0, reused 2511, downloaded 0, added 238
+Progress: resolved 0, reused 2511, downloaded 0, added 241
+Progress: resolved 0, reused 2511, downloaded 0, added 246
+Progress: resolved 0, reused 2511, downloaded 0, added 247
+Progress: resolved 0, reused 2511, downloaded 0, added 254
+Progress: resolved 0, reused 2511, downloaded 0, added 274
+Progress: resolved 0, reused 2511, downloaded 0, added 286
+Progress: resolved 0, reused 2511, downloaded 0, added 300
+Progress: resolved 0, reused 2511, downloaded 0, added 311
+Progress: resolved 0, reused 2511, downloaded 0, added 329
+Progress: resolved 0, reused 2511, downloaded 0, added 347
+Progress: resolved 0, reused 2511, downloaded 0, added 362
+Progress: resolved 0, reused 2511, downloaded 0, added 369
+Progress: resolved 0, reused 2511, downloaded 0, added 375
+Progress: resolved 0, reused 2511, downloaded 0, added 384
+Progress: resolved 0, reused 2511, downloaded 0, added 404
+Progress: resolved 0, reused 2511, downloaded 0, added 405
+Progress: resolved 0, reused 2511, downloaded 0, added 415
+Progress: resolved 0, reused 2511, downloaded 0, added 430
+Progress: resolved 0, reused 2511, downloaded 0, added 440
+Progress: resolved 0, reused 2511, downloaded 0, added 444
+Progress: resolved 0, reused 2511, downloaded 0, added 448
+Progress: resolved 0, reused 2511, downloaded 0, added 452
+Progress: resolved 0, reused 2511, downloaded 0, added 453
+Progress: resolved 0, reused 2511, downloaded 0, added 457
+Progress: resolved 0, reused 2511, downloaded 0, added 496
+Progress: resolved 0, reused 2511, downloaded 0, added 523
+Progress: resolved 0, reused 2511, downloaded 0, added 532
+Progress: resolved 0, reused 2511, downloaded 0, added 541
+Progress: resolved 0, reused 2511, downloaded 0, added 546
+Progress: resolved 0, reused 2511, downloaded 0, added 553
+Progress: resolved 0, reused 2511, downloaded 0, added 558
+Progress: resolved 0, reused 2511, downloaded 0, added 563
+Progress: resolved 0, reused 2511, downloaded 0, added 566
+Progress: resolved 0, reused 2511, downloaded 0, added 567
+Progress: resolved 0, reused 2511, downloaded 0, added 571
+Progress: resolved 0, reused 2511, downloaded 0, added 573
+Progress: resolved 0, reused 2511, downloaded 0, added 574
+Progress: resolved 0, reused 2511, downloaded 0, added 577
+Progress: resolved 0, reused 2511, downloaded 0, added 578
+Progress: resolved 0, reused 2511, downloaded 0, added 579
+Progress: resolved 0, reused 2511, downloaded 0, added 580
+Progress: resolved 0, reused 2511, downloaded 0, added 583
+Progress: resolved 0, reused 2511, downloaded 0, added 585
+Progress: resolved 0, reused 2511, downloaded 0, added 591
+Progress: resolved 0, reused 2511, downloaded 0, added 597
+Progress: resolved 0, reused 2511, downloaded 0, added 601
+Progress: resolved 0, reused 2511, downloaded 0, added 604
+Progress: resolved 0, reused 2511, downloaded 0, added 605
+Progress: resolved 0, reused 2511, downloaded 0, added 606
+Progress: resolved 0, reused 2511, downloaded 0, added 607
+Progress: resolved 0, reused 2511, downloaded 0, added 611
+Progress: resolved 0, reused 2511, downloaded 0, added 628
+Progress: resolved 0, reused 2511, downloaded 0, added 636
+Progress: resolved 0, reused 2511, downloaded 0, added 650
+Progress: resolved 0, reused 2511, downloaded 0, added 664
+Progress: resolved 0, reused 2511, downloaded 0, added 680
+Progress: resolved 0, reused 2511, downloaded 0, added 686
+Progress: resolved 0, reused 2511, downloaded 0, added 687
+Progress: resolved 0, reused 2511, downloaded 0, added 688
+Progress: resolved 0, reused 2511, downloaded 0, added 698
+Progress: resolved 0, reused 2511, downloaded 0, added 719
+Progress: resolved 0, reused 2511, downloaded 0, added 739
+Progress: resolved 0, reused 2511, downloaded 0, added 754
+Progress: resolved 0, reused 2511, downloaded 0, added 755
+Progress: resolved 0, reused 2511, downloaded 0, added 759
+Progress: resolved 0, reused 2511, downloaded 0, added 765
+Progress: resolved 0, reused 2511, downloaded 0, added 770
+Progress: resolved 0, reused 2511, downloaded 0, added 772
+Progress: resolved 0, reused 2511, downloaded 0, added 790
+Progress: resolved 0, reused 2511, downloaded 0, added 803
+Progress: resolved 0, reused 2511, downloaded 0, added 807
+Progress: resolved 0, reused 2511, downloaded 0, added 812
+Progress: resolved 0, reused 2511, downloaded 0, added 820
+Progress: resolved 0, reused 2511, downloaded 0, added 832
+Progress: resolved 0, reused 2511, downloaded 0, added 836
+Progress: resolved 0, reused 2511, downloaded 0, added 837
+Progress: resolved 0, reused 2511, downloaded 0, added 844
+Progress: resolved 0, reused 2511, downloaded 0, added 870
+Progress: resolved 0, reused 2511, downloaded 0, added 893
+Progress: resolved 0, reused 2511, downloaded 0, added 895
+Progress: resolved 0, reused 2511, downloaded 0, added 910
+Progress: resolved 0, reused 2511, downloaded 0, added 922
+Progress: resolved 0, reused 2511, downloaded 0, added 927
+Progress: resolved 0, reused 2511, downloaded 0, added 928
+Progress: resolved 0, reused 2511, downloaded 0, added 937
+Progress: resolved 0, reused 2511, downloaded 0, added 953
+Progress: resolved 0, reused 2511, downloaded 0, added 975
+Progress: resolved 0, reused 2511, downloaded 0, added 1012
+Progress: resolved 0, reused 2511, downloaded 0, added 1036
+Progress: resolved 0, reused 2511, downloaded 0, added 1039
+Progress: resolved 0, reused 2511, downloaded 0, added 1052
+Progress: resolved 0, reused 2511, downloaded 0, added 1062
+Progress: resolved 0, reused 2511, downloaded 0, added 1088
+Progress: resolved 0, reused 2511, downloaded 0, added 1113
+Progress: resolved 0, reused 2511, downloaded 0, added 1122
+Progress: resolved 0, reused 2511, downloaded 0, added 1147
+Progress: resolved 0, reused 2511, downloaded 0, added 1175
+Progress: resolved 0, reused 2511, downloaded 0, added 1183
+Progress: resolved 0, reused 2511, downloaded 0, added 1221
+Progress: resolved 0, reused 2511, downloaded 0, added 1278
+Progress: resolved 0, reused 2511, downloaded 0, added 1319
+Progress: resolved 0, reused 2511, downloaded 0, added 1372
+Progress: resolved 0, reused 2511, downloaded 0, added 1390
+Progress: resolved 0, reused 2511, downloaded 0, added 1401
+Progress: resolved 0, reused 2511, downloaded 0, added 1443
+Progress: resolved 0, reused 2511, downloaded 0, added 1481
+Progress: resolved 0, reused 2511, downloaded 0, added 1523
+Progress: resolved 0, reused 2511, downloaded 0, added 1554
+Progress: resolved 0, reused 2511, downloaded 0, added 1592
+Progress: resolved 0, reused 2511, downloaded 0, added 1642
+Progress: resolved 0, reused 2511, downloaded 0, added 1678
+Progress: resolved 0, reused 2511, downloaded 0, added 1735
+Progress: resolved 0, reused 2511, downloaded 0, added 1754
+Progress: resolved 0, reused 2511, downloaded 0, added 1766
+Progress: resolved 0, reused 2511, downloaded 0, added 1782
+Progress: resolved 0, reused 2511, downloaded 0, added 1785
+Progress: resolved 0, reused 2511, downloaded 0, added 1790
+Progress: resolved 0, reused 2511, downloaded 0, added 1795
+Progress: resolved 0, reused 2511, downloaded 0, added 1799
+Progress: resolved 0, reused 2511, downloaded 0, added 1802
+Progress: resolved 0, reused 2511, downloaded 0, added 1806
+Progress: resolved 0, reused 2511, downloaded 0, added 1809
+Progress: resolved 0, reused 2511, downloaded 0, added 1817
+Progress: resolved 0, reused 2511, downloaded 0, added 1826
+Progress: resolved 0, reused 2511, downloaded 0, added 1837
+Progress: resolved 0, reused 2511, downloaded 0, added 1848
+Progress: resolved 0, reused 2511, downloaded 0, added 1862
+Progress: resolved 0, reused 2511, downloaded 0, added 1874
+Progress: resolved 0, reused 2511, downloaded 0, added 1888
+Progress: resolved 0, reused 2511, downloaded 0, added 1900
+Progress: resolved 0, reused 2511, downloaded 0, added 1915
+Progress: resolved 0, reused 2511, downloaded 0, added 1930
+Progress: resolved 0, reused 2511, downloaded 0, added 1945
+Progress: resolved 0, reused 2511, downloaded 0, added 1960
+Progress: resolved 0, reused 2511, downloaded 0, added 1973
+Progress: resolved 0, reused 2511, downloaded 0, added 1984
+Progress: resolved 0, reused 2511, downloaded 0, added 1998
+Progress: resolved 0, reused 2511, downloaded 0, added 2010
+Progress: resolved 0, reused 2511, downloaded 0, added 2023
+Progress: resolved 0, reused 2511, downloaded 0, added 2037
+Progress: resolved 0, reused 2511, downloaded 0, added 2050
+Progress: resolved 0, reused 2511, downloaded 0, added 2060
+Progress: resolved 0, reused 2511, downloaded 0, added 2075
+Progress: resolved 0, reused 2511, downloaded 0, added 2087
+Progress: resolved 0, reused 2511, downloaded 0, added 2097
+Progress: resolved 0, reused 2511, downloaded 0, added 2101
+Progress: resolved 0, reused 2511, downloaded 0, added 2102
+Progress: resolved 0, reused 2511, downloaded 0, added 2103
+Progress: resolved 0, reused 2511, downloaded 0, added 2104
+Progress: resolved 0, reused 2511, downloaded 0, added 2105
+Progress: resolved 0, reused 2511, downloaded 0, added 2107
+Progress: resolved 0, reused 2511, downloaded 0, added 2108
+Progress: resolved 0, reused 2511, downloaded 0, added 2111
+Progress: resolved 0, reused 2511, downloaded 0, added 2112
+Progress: resolved 0, reused 2511, downloaded 0, added 2113
+Progress: resolved 0, reused 2511, downloaded 0, added 2114
+Progress: resolved 0, reused 2511, downloaded 0, added 2115
+Progress: resolved 0, reused 2511, downloaded 0, added 2116
+Progress: resolved 0, reused 2511, downloaded 0, added 2117
+Progress: resolved 0, reused 2511, downloaded 0, added 2118
+Progress: resolved 0, reused 2511, downloaded 0, added 2119
+Progress: resolved 0, reused 2511, downloaded 0, added 2120
+Progress: resolved 0, reused 2511, downloaded 0, added 2122
+Progress: resolved 0, reused 2511, downloaded 0, added 2123
+Progress: resolved 0, reused 2511, downloaded 0, added 2124
+Progress: resolved 0, reused 2511, downloaded 0, added 2125
+Progress: resolved 0, reused 2511, downloaded 0, added 2126
+Progress: resolved 0, reused 2511, downloaded 0, added 2128
+Progress: resolved 0, reused 2511, downloaded 0, added 2129
+Progress: resolved 0, reused 2511, downloaded 0, added 2130
+Progress: resolved 0, reused 2511, downloaded 0, added 2131
+Progress: resolved 0, reused 2511, downloaded 0, added 2132
+Progress: resolved 0, reused 2511, downloaded 0, added 2134
+Progress: resolved 0, reused 2511, downloaded 0, added 2138
+Progress: resolved 0, reused 2511, downloaded 0, added 2140
+Progress: resolved 0, reused 2511, downloaded 0, added 2142
+Progress: resolved 0, reused 2511, downloaded 0, added 2155
+Progress: resolved 0, reused 2511, downloaded 0, added 2162
+Progress: resolved 0, reused 2511, downloaded 0, added 2167
+Progress: resolved 0, reused 2511, downloaded 0, added 2171
+Progress: resolved 0, reused 2511, downloaded 0, added 2174
+Progress: resolved 0, reused 2511, downloaded 0, added 2189
+Progress: resolved 0, reused 2511, downloaded 0, added 2197
+Progress: resolved 0, reused 2511, downloaded 0, added 2201
+Progress: resolved 0, reused 2511, downloaded 0, added 2202
+Progress: resolved 0, reused 2511, downloaded 0, added 2230
+Progress: resolved 0, reused 2511, downloaded 0, added 2235
+Progress: resolved 0, reused 2511, downloaded 0, added 2244
+Progress: resolved 0, reused 2511, downloaded 0, added 2245
+Progress: resolved 0, reused 2511, downloaded 0, added 2246
+Progress: resolved 0, reused 2511, downloaded 0, added 2247
+Progress: resolved 0, reused 2511, downloaded 0, added 2248
+Progress: resolved 0, reused 2511, downloaded 0, added 2252
+Progress: resolved 0, reused 2511, downloaded 0, added 2255
+Progress: resolved 0, reused 2511, downloaded 0, added 2256
+Progress: resolved 0, reused 2511, downloaded 0, added 2257
+Progress: resolved 0, reused 2511, downloaded 0, added 2261
+Progress: resolved 0, reused 2511, downloaded 0, added 2262
+Progress: resolved 0, reused 2511, downloaded 0, added 2263
+Progress: resolved 0, reused 2511, downloaded 0, added 2266
+Progress: resolved 0, reused 2511, downloaded 0, added 2268
+Progress: resolved 0, reused 2511, downloaded 0, added 2269
+Progress: resolved 0, reused 2511, downloaded 0, added 2270
+Progress: resolved 0, reused 2511, downloaded 0, added 2274
+Progress: resolved 0, reused 2511, downloaded 0, added 2276
+Progress: resolved 0, reused 2511, downloaded 0, added 2277
+Progress: resolved 0, reused 2511, downloaded 0, added 2279
+Progress: resolved 0, reused 2511, downloaded 0, added 2280
+Progress: resolved 0, reused 2511, downloaded 0, added 2283
+Progress: resolved 0, reused 2511, downloaded 0, added 2284
+Progress: resolved 0, reused 2511, downloaded 0, added 2285
+Progress: resolved 0, reused 2511, downloaded 0, added 2286
+Progress: resolved 0, reused 2511, downloaded 0, added 2290
+Progress: resolved 0, reused 2511, downloaded 0, added 2291
+Progress: resolved 0, reused 2511, downloaded 0, added 2292
+Progress: resolved 0, reused 2511, downloaded 0, added 2293
+Progress: resolved 0, reused 2511, downloaded 0, added 2296
+Progress: resolved 0, reused 2511, downloaded 0, added 2297
+Progress: resolved 0, reused 2511, downloaded 0, added 2298
+Progress: resolved 0, reused 2511, downloaded 0, added 2299
+Progress: resolved 0, reused 2511, downloaded 0, added 2303
+Progress: resolved 0, reused 2511, downloaded 0, added 2304
+Progress: resolved 0, reused 2511, downloaded 0, added 2305
+Progress: resolved 0, reused 2511, downloaded 0, added 2308
+Progress: resolved 0, reused 2511, downloaded 0, added 2309
+Progress: resolved 0, reused 2511, downloaded 0, added 2310
+Progress: resolved 0, reused 2511, downloaded 0, added 2311
+Progress: resolved 0, reused 2511, downloaded 0, added 2312
+Progress: resolved 0, reused 2511, downloaded 0, added 2313
+Progress: resolved 0, reused 2511, downloaded 0, added 2315
+Progress: resolved 0, reused 2511, downloaded 0, added 2316
+Progress: resolved 0, reused 2511, downloaded 0, added 2320
+Progress: resolved 0, reused 2511, downloaded 0, added 2323
+Progress: resolved 0, reused 2511, downloaded 0, added 2324
+Progress: resolved 0, reused 2511, downloaded 0, added 2327
+Progress: resolved 0, reused 2511, downloaded 0, added 2328
+Progress: resolved 0, reused 2511, downloaded 0, added 2331
+Progress: resolved 0, reused 2511, downloaded 0, added 2333
+Progress: resolved 0, reused 2511, downloaded 0, added 2335
+Progress: resolved 0, reused 2511, downloaded 0, added 2341
+Progress: resolved 0, reused 2511, downloaded 0, added 2352
+Progress: resolved 0, reused 2511, downloaded 0, added 2365
+Progress: resolved 0, reused 2511, downloaded 0, added 2366
+Progress: resolved 0, reused 2511, downloaded 0, added 2372
+Progress: resolved 0, reused 2511, downloaded 0, added 2379
+Progress: resolved 0, reused 2511, downloaded 0, added 2386
+Progress: resolved 0, reused 2511, downloaded 0, added 2391
+Progress: resolved 0, reused 2511, downloaded 0, added 2413
+Progress: resolved 0, reused 2511, downloaded 0, added 2436
+Progress: resolved 0, reused 2511, downloaded 0, added 2459
+Progress: resolved 0, reused 2511, downloaded 0, added 2474
+Progress: resolved 0, reused 2511, downloaded 0, added 2483
+Progress: resolved 0, reused 2511, downloaded 0, added 2502
+Progress: resolved 0, reused 2511, downloaded 0, added 2543
+Progress: resolved 0, reused 2511, downloaded 0, added 2573
+Progress: resolved 0, reused 2511, downloaded 0, added 2595
+Progress: resolved 0, reused 2511, downloaded 0, added 2604
+Progress: resolved 0, reused 2511, downloaded 0, added 2610
+Progress: resolved 0, reused 2511, downloaded 0, added 2623
+Progress: resolved 0, reused 2511, downloaded 0, added 2629
+Progress: resolved 0, reused 2511, downloaded 0, added 2635
+Progress: resolved 0, reused 2511, downloaded 0, added 2641
+Progress: resolved 0, reused 2511, downloaded 0, added 2645
+Progress: resolved 0, reused 2511, downloaded 0, added 2648
+Progress: resolved 0, reused 2511, downloaded 0, added 2649
+Progress: resolved 0, reused 2511, downloaded 0, added 2650
+Progress: resolved 0, reused 2511, downloaded 0, added 2651
+Progress: resolved 0, reused 2511, downloaded 0, added 2652
+Progress: resolved 0, reused 2511, downloaded 0, added 2654
+Progress: resolved 0, reused 2511, downloaded 0, added 2659
+Progress: resolved 0, reused 2511, downloaded 0, added 2661
+Progress: resolved 0, reused 2511, downloaded 0, added 2663
+Progress: resolved 0, reused 2511, downloaded 0, added 2664
+Progress: resolved 0, reused 2511, downloaded 0, added 2665
+Progress: resolved 0, reused 2511, downloaded 0, added 2666
+Progress: resolved 0, reused 2511, downloaded 0, added 2667
+Progress: resolved 0, reused 2511, downloaded 0, added 2670
+Progress: resolved 0, reused 2511, downloaded 0, added 2684
+Progress: resolved 0, reused 2511, downloaded 0, added 2698
+Progress: resolved 0, reused 2511, downloaded 0, added 2701
+Progress: resolved 0, reused 2511, downloaded 0, added 2702
+Progress: resolved 0, reused 2511, downloaded 0, added 2716
+Progress: resolved 0, reused 2511, downloaded 0, added 2736
+Progress: resolved 0, reused 2511, downloaded 0, added 2759
+Progress: resolved 0, reused 2511, downloaded 0, added 2810
+Progress: resolved 0, reused 2511, downloaded 0, added 2847
+Progress: resolved 0, reused 2511, downloaded 0, added 2877
+Progress: resolved 0, reused 2511, downloaded 0, added 2917
+Progress: resolved 0, reused 2511, downloaded 0, added 2954
+Progress: resolved 0, reused 2511, downloaded 0, added 3007
+Progress: resolved 0, reused 2511, downloaded 0, added 3033
+Progress: resolved 0, reused 2511, downloaded 0, added 3057
+Progress: resolved 0, reused 2511, downloaded 0, added 3060
+Progress: resolved 0, reused 2511, downloaded 0, added 3061
+Progress: resolved 0, reused 2511, downloaded 0, added 3062
+Progress: resolved 0, reused 2511, downloaded 0, added 3062, done
+
+dependencies:
++ @openmaic/dsl 0.11.1 <- packages\@openmaic\dsl
++ @openmaic/editor 0.0.5 <- packages\@openmaic\editor
++ @openmaic/generation 0.3.7 <- packages\@openmaic\generation
++ @openmaic/importer 0.2.1 <- packages\@openmaic\importer
++ @openmaic/renderer 0.1.7 <- packages\@openmaic\renderer
++ @openmaic/storage 0.31.0 <- packages\@openmaic\storage
++ mathml2omml 0.5.0 <- packages\mathml2omml
++ pptxgenjs 4.0.1 <- packages\pptxgenjs
+
+. postinstall$ cd packages/mathml2omml && npm run build && cd ../pptxgenjs && npm run build && cd ../@openmaic/dsl && pnpm run build && cd ../generation && pnpm run build && cd ../storage && pnpm run build && cd ../importer && pnpm run build && cd ../renderer && pnpm run build && cd ../editor && pnpm run build && cd ../../.. && node scripts/sync-maic-importer.mjs
+. postinstall: > mathml2omml@0.5.0 build
+. postinstall: > rollup -c && node -e "require('fs').copyFileSync('src/index.d.ts','dist/index.d.ts')"
+. postinstall: [36m
+. postinstall: [1msrc/index.js[22m → [1mdist/index.js, dist/index.cjs[22m...[39m
+. postinstall: [32mcreated [1mdist/index.js, dist/index.cjs[22m in [1m354ms[22m[39m
+. postinstall: > pptxgenjs@4.0.1 build
+. postinstall: > rollup -c --bundleConfigAsCjs
+. postinstall: [36m
+. postinstall: [1msrc/pptxgen.ts[22m → [1m./dist/pptxgen.js, ./dist/pptxgen.cjs.js, ./dist/pptxgen.es.js[22m...[39m
+. postinstall: [32mcreated [1m./dist/pptxgen.js, ./dist/pptxgen.cjs.js, ./dist/pptxgen.es.js[22m in [1m7.2s[22m[39m
+. postinstall: > @openmaic/dsl@0.11.1 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\dsl
+. postinstall: > node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && tsc -p tsconfig.json && node scripts/gen-schema.mjs
+. postinstall: wrote dist/schema/stage.schema.json
+. postinstall: wrote dist/schema/scene.schema.json
+. postinstall: wrote dist/schema/action.schema.json
+. postinstall: > @openmaic/generation@0.3.7 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\generation
+. postinstall: > node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && tsc -p tsconfig.json
+. postinstall: > @openmaic/storage@0.31.0 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\storage
+. postinstall: > node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && tsc -p tsconfig.json
+. postinstall: > @openmaic/importer@0.2.1 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\importer
+. postinstall: > node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && rollup -c && tsc --emitDeclarationOnly
+. postinstall: [36m
+. postinstall: [1msrc/index.ts[22m → [1mdist/index.umd.js[22m...[39m
+. postinstall: [32mcreated [1mdist/index.umd.js[22m in [1m25.8s[22m[39m
+. postinstall: [36m
+. postinstall: [1msrc/index.ts[22m → [1mdist/index.cjs[22m...[39m
+. postinstall: [32mcreated [1mdist/index.cjs[22m in [1m16s[22m[39m
+. postinstall: [36m
+. postinstall: [1msrc/index.ts[22m → [1mdist/index.js[22m...[39m
+. postinstall: [32mcreated [1mdist/index.js[22m in [1m14.1s[22m[39m
+. postinstall: > @openmaic/renderer@0.1.7 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\renderer
+. postinstall: > node scripts/generate-fonts-css.mjs && node scripts/generate-katex-fonts.mjs && node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && rollup -c && tsc --emitDeclarationOnly --declarationDir dist
+. postinstall: [genfonts] wrote 6 @font-face rules → fonts.css (https://file.maic.chat/fonts)
+. postinstall: [gen-katex-fonts] embedded 20 KaTeX 0.16.38 faces → src/snapshot/katex-fonts-embed.ts (341 KB)
+. postinstall: [36m
+. postinstall: [1msrc/index.ts, src/elements/index.ts, src/types/index.ts, src/snapshot/index.ts[22m → [1mdist[22m...[39m
+. postinstall: [32mcreated [1mdist[22m in [1m7.1s[22m[39m
+. postinstall: > @openmaic/editor@0.0.5 build C:\Users\28712\WorkBuddy\2026-09-17-13-49-32\openmaic\packages\@openmaic\editor
+. postinstall: > node -e "require('fs').rmSync('dist',{recursive:true,force:true})" && rollup -c && tsc --emitDeclarationOnly --declarationDir dist
+. postinstall: [36m
+. postinstall: [1msrc/core/index.ts, src/react/index.ts, src/ui/index.ts[22m → [1mdist[22m...[39m
+. postinstall: [32mcreated [1mdist[22m in [1m11.1s[22m[39m
+. postinstall: [sync-maic-importer] copied packages\@openmaic\importer\dist → public\vendor\maic-importer
+. postinstall: Done
+╭ Warning ─────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Ignored build scripts: @alicloud/openapi-core@1.0.7,                       │
+│   @biomejs/biome@1.9.4, @google/genai@1.52.0, @scarf/scarf@1.4.0,            │
+│   canvas@3.2.3, core-js@2.6.12, es5-ext@0.10.64, esbuild@0.25.12,            │
+│   esbuild@0.27.7, msw@2.12.10, onnxruntime-node@1.23.2, protobufjs@7.6.4.    │
+│   Run "pnpm approve-builds" to pick which dependencies should be allowed     │
+│   to run scripts.                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Done in 10m 20.4s using pnpm v10.28.0
+EXIT_CODE=0

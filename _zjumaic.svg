@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <clipPath id="ring"><circle cx="170" cy="180" r="100"/></clipPath>
+  </defs>
+  <circle cx="170" cy="180" r="100" fill="#A60D2F"/>
+  <circle cx="170" cy="180" r="100" fill="none" stroke="#7A0A22" stroke-width="4"/>
+  <g clip-path="url(#ring)">
+    <circle cx="170" cy="150" r="9" fill="#FFFFFF"/>
+    <path d="M 162 172 C 138 150 108 144 90 156 L 99 168 C 118 158 140 162 158 182 Z" fill="#FFFFFF"/>
+    <path d="M 178 172 C 202 150 232 144 250 156 L 241 168 C 222 158 200 162 182 182 Z" fill="#FFFFFF"/>
+    <path d="M 170 174 L 178 190 L 170 202 L 162 190 Z" fill="#FFFFFF"/>
+    <path d="M 128 186 C 138 198 152 204 168 204 C 184 204 198 198 208 186 L 198 176 C 192 184 180 190 168 190 C 156 190 144 184 138 176 Z" fill="#FFFFFF" opacity="0.85"/>
+  </g>
+  <text x="296" y="214" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="120" font-weight="700" fill="#A60D2F">ZJU</text>
+  <text x="516" y="214" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="120" font-weight="600" fill="#2F2F2F">Maic</text>
+</svg>
